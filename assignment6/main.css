@@ -1,0 +1,18 @@
+legend{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    color: #abbdee;
+    font-weight: bold;
+    text-decoration: underline;
+    background-color: white;
+}
+span{
+    color: #fa9e9e;
+}
+input{
+    color: #b683b2;
+    background-color: rgba(211, 200, 200, 0.315);
+}
+fieldset{
+    background-color: #efe5ee;
+}
